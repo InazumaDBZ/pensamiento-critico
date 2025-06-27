@@ -77,7 +77,7 @@ export default function CriticalThinkingPage() {
       </main>
 
       <footer className="mt-16 text-center text-sm text-neutral-500">
-        Hecho con 💡 por TuNombre • <a className="underline" href="https://creativecommons.org/licenses/by/4.0/">CC‑BY 4.0</a>
+        Hecho con 💡 por Eliuth y Sofia • <a className="underline" href="https://creativecommons.org/licenses/by/4.0/">CC‑BY 4.0</a>
       </footer>
     </div>
   );
